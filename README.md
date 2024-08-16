@@ -6,5 +6,5 @@
 
 
 
-💻 https://starchart.cc/{username}/{repo}.svg 📚
+💻 ( https://starchart.cc/{username}/{repo}.svg ) 📚
 ![Python]( https://img.shields.io/badge/Python-3776AB?style=para-o-emblema&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=para-o-emblema&logo=sql&labelColor=0D1117) 
